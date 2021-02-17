@@ -19,7 +19,11 @@
     "Selectors": ["selectors"],
     "Backgrounds": ["backgrounds"],
     "Errors": ["errors"],
-    "Dictionary": ["dictionary"]
+    "Dictionary": ["dictionary"],
+    "Output": ["output"],
+    "Input": ["input"],
+    "Sets": ["sets"],
+    "Tuples": ["tuples"]
   },
   "languages": {
     "HTML": "html",
